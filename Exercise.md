@@ -1,6 +1,6 @@
 # Fundamentals of Azure
 ## Azure Active Directory 
-Exercise Files for the Azure Active Directory Course - these activities will need an Azure Active Directory P2 trial License. 
+Exercise Files for the Azure Active Directory Course - these activities will need an Azure Active Directory P2 trial Licenses. 
 
 Message me if you are having issues accessing one. 
 ### Create a user in Azure Active Directory 
