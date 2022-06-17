@@ -1,6 +1,8 @@
 # Fundamentals of Azure
 ## Azure Active Directory 
-Exercise Files for the Azure Active Directory Course
+Exercise Files for the Azure Active Directory Course - these activities will need an Azure Active Directory P2 trial License. 
+
+Message me if you are having issues accessing one. 
 ### Create a user in Azure Active Directory 
   In your Azure Active Directory create a user named: 
   Cheryl Melhoff based in New York City with a job title of Project Manager. 
