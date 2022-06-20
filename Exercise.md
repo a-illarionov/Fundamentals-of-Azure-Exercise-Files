@@ -1,7 +1,14 @@
 # Fundamentals of Azure
 ## Azure Active Directory 
-Exercise Files for the Azure Active Directory Course - these activities will need an Azure Active Directory P2 trial Licenses. 
-
+For this excerise you will need: 
+- Azure Tenant
+- Azure Active Directory 
+- P2 Azure Active Directory License
+## Objectives 
+- Create a user in Azure Active Directory 
+- Update the user's information 
+- Create a dynamic security group 
+- Create and test a conditional access policy 
 Message me if you are having issues accessing one. 
 ### Create a user in Azure Active Directory 
   In your Azure Active Directory create a user named: 
