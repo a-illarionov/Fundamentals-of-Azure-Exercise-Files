@@ -37,9 +37,12 @@ After a few minutes, you should see your newly created user in this Dynamic Secu
 ## How to Create and Test a Conditional Access Policy
 In the search bar look up **Azure AD Conditional Access**. It should appear before you even finish typing out the words.
 ![Navigate to conditional access policy](https://github.com/aillarionov-hsl/Fundamentals-of-Azure-Exercise-Files/blob/AzureAD/Reference_Images/Conditional_Access.JPG)
+
 Once we get to the conditional access page, navigate to the **Named Locations** tab. 
 ![Named Locations](https://github.com/aillarionov-hsl/Fundamentals-of-Azure-Exercise-Files/blob/AzureAD/Reference_Images/Named_locations.JPG)
+
 On the top bar select **Countries Location**. Look up the **United States** in the **search countries** bar. 
 ![Countries Locations](https://github.com/aillarionov-hsl/Fundamentals-of-Azure-Exercise-Files/blob/AzureAD/Reference_Images/Country_locations.JPG)
 ![Selected Countries Locations](https://github.com/aillarionov-hsl/Fundamentals-of-Azure-Exercise-Files/blob/AzureAD/Reference_Images/Allowed_Countries.JPG)
+
 After that click create and navigate to the policy tab on the left-hand bar. 
