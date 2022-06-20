@@ -10,6 +10,7 @@ For this excerise you will need:
 - Create a dynamic security group 
 - Create and test a conditional access policy 
 Message me if you are having issues accessing one. 
+## Excerise: 
 ### Create a user in Azure Active Directory 
   In your Azure Active Directory create a user named: 
   Cheryl Melhoff based in New York City with a job title of Project Manager. 
