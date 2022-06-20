@@ -34,6 +34,7 @@ Hit Save and navigate back to the previous page and click on **Create**.
 
 After a few minutes, you should see your newly created user in this Dynamic Security Group. 
 ![Group Membership](https://github.com/aillarionov-hsl/Fundamentals-of-Azure-Exercise-Files/blob/AzureAD/Reference_Images/group_membership.JPG)
+
 ## How to Create and Test a Conditional Access Policy
 In the search bar look up **Azure AD Conditional Access**. It should appear before you even finish typing out the words.
 ![Navigate to conditional access policy](https://github.com/aillarionov-hsl/Fundamentals-of-Azure-Exercise-Files/blob/AzureAD/Reference_Images/Conditional_Access.JPG)
@@ -63,3 +64,6 @@ Next select the **Grant Access** Section and select Grant Access + Require MFA
 ![Grant access](https://github.com/aillarionov-hsl/Fundamentals-of-Azure-Exercise-Files/blob/AzureAD/Reference_Images/CAP_Grant_Access.JPG)
 
 Click on create and you have now created a policy! 
+***Make sure you keep on report-only*** so you don't accidentally impact yourself.  
+
+## How to Test a Conditional Access Policy Using "What-if"
