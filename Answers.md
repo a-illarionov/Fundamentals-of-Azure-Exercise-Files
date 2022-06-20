@@ -20,3 +20,16 @@ To add a user's city or edit their information. Go back to your user page, find 
 After editing the user information click on save. It should now save the updated information. 
 
 ## How to Create a Dynamic Group in Azure Active Directory (AAD)
+Navigate back to the AAD homepage reach the Group Tab. 
+![Group Tab](https://github.com/aillarionov-hsl/Fundamentals-of-Azure-Exercise-Files/blob/AzureAD/Reference_Images/Navigate_to_groups.JPG)
+After navigating to the group page, click on **New Group** on the tabs on the top. 
+![Create New Group](https://github.com/aillarionov-hsl/Fundamentals-of-Azure-Exercise-Files/blob/AzureAD/Reference_Images/Create_new_group.JPG)
+Fill in the information regarding your security group in the boxes. Make sure to change the membership type to: **Dynamic User**
+![Dynamic User](https://github.com/aillarionov-hsl/Fundamentals-of-Azure-Exercise-Files/blob/AzureAD/Reference_Images/Change_to_dynamic_group.JPG)
+Next click on **Edit dynamic query**
+![Dynamic Query](https://github.com/aillarionov-hsl/Fundamentals-of-Azure-Exercise-Files/blob/AzureAD/Reference_Images/Create_rule.JPG)
+Create the rule by using the drop down to click the properties that you would like to apply to the dynamic security group.
+![Rule syntax](https://github.com/aillarionov-hsl/Fundamentals-of-Azure-Exercise-Files/blob/AzureAD/Reference_Images/Rule_syntax.JPG)
+Hit Save and navigate back to the previous page and click on **Create**. 
+
+After a few minutes, you should see your newly created user in this Dynamic Security Group. 
