@@ -5,7 +5,7 @@ For this excerise you will need:
 - P2 Azure Active Directory License
 ## Objectives 
 - [Create a user in Azure Active Directory](https://github.com/aillarionov-hsl/Fundamentals-of-Azure-Exercise-Files/blob/AzureAD/Answers.md#how-to-create-a-user-in-azure-active-directory-aad)
-- Update the user's information 
+- [Update the user's information](https://github.com/aillarionov-hsl/Fundamentals-of-Azure-Exercise-Files/blob/AzureAD/Answers.md#how-to-add-the-users-city)
 - Create a dynamic security group 
 - Create and test a conditional access policy 
 ## How to create a user in Azure Active Directory (AAD)
