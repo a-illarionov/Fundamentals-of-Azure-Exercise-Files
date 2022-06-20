@@ -45,4 +45,21 @@ On the top bar select **Countries Location**. Look up the **United States** in t
 ![Countries Locations](https://github.com/aillarionov-hsl/Fundamentals-of-Azure-Exercise-Files/blob/AzureAD/Reference_Images/Country_locations.JPG)
 ![Selected Countries Locations](https://github.com/aillarionov-hsl/Fundamentals-of-Azure-Exercise-Files/blob/AzureAD/Reference_Images/Allowed_Countries.JPG)
 
-After that click create and navigate to the policy tab on the left-hand bar. 
+After that click create and navigate to the policy tab on the left-hand bar and click on **New Policy**.
+![New Policy](https://github.com/aillarionov-hsl/Fundamentals-of-Azure-Exercise-Files/blob/AzureAD/Reference_Images/Create_policy.JPG)
+
+Make sure you select **Create New Policy** and not **Create New Policy from Templates**
+After creating a name for the policy, select the scope of policy. 
+![Scope](https://github.com/aillarionov-hsl/Fundamentals-of-Azure-Exercise-Files/blob/AzureAD/Reference_Images/CA_Scope.JPG)
+
+Next select the scope of the applications the policy will apply to. 
+
+![Application Scope](https://github.com/aillarionov-hsl/Fundamentals-of-Azure-Exercise-Files/blob/AzureAD/Reference_Images/CA_App_scope.JPG)
+
+After selecting the applications, select the conditions of the conditional access policy. 
+![Conditions](https://github.com/aillarionov-hsl/Fundamentals-of-Azure-Exercise-Files/blob/AzureAD/Reference_Images/CAP_Conditions.JPG)
+
+Next select the **Grant Access** Section and select Grant Access + Require MFA
+![Grant access](https://github.com/aillarionov-hsl/Fundamentals-of-Azure-Exercise-Files/blob/AzureAD/Reference_Images/CAP_Grant_Access.JPG)
+
+Click on create and you have now created a policy! 
