@@ -1,5 +1,5 @@
 # Fundamentals of Azure Exercise Answers
-For this excerise you will need an: 
+For this excerise you will need: 
 - Azure Tenant
 - Azure Active Directory 
 - P2 Azure Active Directory License
