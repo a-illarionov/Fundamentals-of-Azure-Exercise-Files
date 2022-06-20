@@ -33,3 +33,4 @@ Create the rule by using the drop down to click the properties that you would li
 Hit Save and navigate back to the previous page and click on **Create**. 
 
 After a few minutes, you should see your newly created user in this Dynamic Security Group. 
+![Group Membership](https://github.com/aillarionov-hsl/Fundamentals-of-Azure-Exercise-Files/blob/AzureAD/Reference_Images/group_membership.JPG)
