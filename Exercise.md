@@ -9,6 +9,7 @@ For this excerise you will need:
 - Deploy a virtual machine (VM)
 - Update the network security group (NSG) on the VM
 - Remote Desktop into the newly created virtual machine
+
 Message me if you have any questions. 
 ## Excerise: 
 ### Create a resource group
